@@ -1,0 +1,20 @@
+{
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "GitHub.copilot",
+          "ms-python.python",
+          "dracula-theme.theme-dracula",
+          "oderwat.indent-rainbow",
+          "eamodio.gitlens",
+          "esbenp.prettier-vscode"
+        ],
+        "editor.fontSize": 18,
+        "editor.fontLigatures": true,
+        "editor.fontFamily": "JetBrains Mono",
+        "editor.wordWrap": true,
+        "workbench.colorTheme": "Dracula"
+      }
+    },
+    "forwardPorts": [3000]
+  }
